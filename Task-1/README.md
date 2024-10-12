@@ -14,9 +14,7 @@ Create a To-do list application
 
 
 ## Output:
-![To-Do Output](https://i.postimg.cc/HkVGB9QX/Screenshot-2024-10-12-105633.png)
-
-
+[![Screenshot-2024-10-12-105633.png](https://i.postimg.cc/HkVGB9QX/Screenshot-2024-10-12-105633.png)](https://postimg.cc/fVngbXqR)
 
 
 
