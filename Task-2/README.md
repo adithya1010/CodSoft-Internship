@@ -20,9 +20,7 @@ Create a basic calculator
 
 ## Output:
 
-![Calculator Output](https://i.postimg.cc/jdW5KXRd/Screenshot-2024-10-12-130124.png)
-
-
+[![Screenshot-2024-10-12-130124.png](https://i.postimg.cc/jdW5KXRd/Screenshot-2024-10-12-130124.png)](https://postimg.cc/4mgZQpKr)
 
 
 
