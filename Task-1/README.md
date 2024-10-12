@@ -1,6 +1,7 @@
 ﻿
 
 # CodSoft Internship
+![image](https://github.com/user-attachments/assets/109326e7-60e9-462d-bd0e-a011b1ca8636)
 
 ## **Task-1️⃣:**
 
